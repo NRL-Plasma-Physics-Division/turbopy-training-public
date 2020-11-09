@@ -1,0 +1,1 @@
+**NOTE: this file contained a list of acronyms and jargon along with definitions and context. The interns helped add to the list throughout the summer with PRs.**
